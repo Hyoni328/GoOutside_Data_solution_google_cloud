@@ -17,3 +17,8 @@ This project aims to implement a robust, scalable, and user-friendly data soluti
 - **Google BigQuery**: For creating and managing the data warehouse.
 - **Google Sheets**: For developing user-friendly spreadsheets.
 - **Looker Studio**: For building interactive and insightful dashboards.
+
+## Key Learnings
+- Understanding how to structure and scale a data warehouse to handle growing datasets dfficiently.
+- Learning techniques to optimize data storage and query performance in BigQuery.
+- Learning how to make dashboards interactive and user-friendly for stakeholders, enabling them to explore data dynamically.
