@@ -1,4 +1,4 @@
-# GoOutside Data solution using google cloud
+# GoOutside Data solution
 
 ## Project Overview
 This project was run in August 2024 as part of the WBS CODING SCHOOL Data Analytics Bootcamp.
